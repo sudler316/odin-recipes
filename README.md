@@ -1,3 +1,6 @@
 # odin-recipes
 
-Set up your README.md file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+
+This project demonstrates basic understanding of git and terminal/vscode connection. I have announced 3 foods on the main index page with appropriate linking to the individual pages of each recipe. Each page includes a main heading, image, and subheadings (description, ingredients, and steps).
+
+Self Reflection:
